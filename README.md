@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on DnD Campaign
+- 🌱 I’m currently learning at Wroclaw University
 <!--
 **AKonieczny04/AKonieczny04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
